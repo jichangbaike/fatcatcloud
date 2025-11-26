@@ -173,7 +173,4 @@ A：建议优先查看 FatCatCloud 官方的公告与使用说明；如仍无法
 - 👉 **FatCatCloud 官方注册入口**：  
   [https://finalto.xyz/z2ijHx](https://finalto.xyz/z2ijHx)
 
-- 📖 **第三方测评与使用体验**：  
-  [FatCatCloud（肥猫云）机场测评 - jichangbaike.com](https://jichangbaike.com/2025/11/280.html)
-
-> 建议将本说明文档与测评文章一并收藏，使用过程中请严格遵守当地法律法规与服务条款。
+> 建议将本说明文档收藏，使用过程中请严格遵守当地法律法规与服务条款。

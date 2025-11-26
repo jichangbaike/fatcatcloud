@@ -1,4 +1,4 @@
-# FatCatCloud（肥猫云）官网注册入口说明与多平台使用指南
+# FatCatCloud（肥猫云）官网注册入口说明与使用指南
 
 
 <img src="https://raw.githubusercontent.com/jichangbaike/fatcatcloud/refs/heads/main/7ed2d.png" height="500">

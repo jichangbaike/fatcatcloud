@@ -1,6 +1,6 @@
 # 肥猫云（FatCatCloud）官网注册入口说明与多平台使用指南
 
-<img src="https://raw.githubusercontent.com/jichangbaike/fatcatcloud/refs/heads/main/7ed2d.png" height="500">
+<img src="https://raw.githubusercontent.com/jichangbaike/fatcatcloud/refs/heads/main/7ed2d.png" height="500" alt="肥猫云 FatCatCloud" >
 
 肥猫云（FatCatCloud）是一家专注稳定连接体验的网络服务商，成立时间已超过三年，运营相对成熟。  
 本仓库用于整理肥猫云的官网注册入口说明、基础使用介绍、多平台配置指引以及常见问题，方便用户在合规前提下更好地完成日常办公、学习和跨境协作等需求。

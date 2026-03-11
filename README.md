@@ -1,12 +1,15 @@
 # 肥猫云（FatCatCloud）官网注册入口说明与多平台使用指南
 
-<img src="https://raw.githubusercontent.com/jichangbaike/fatcatcloud/refs/heads/main/7ed2d.png" height="500" alt="肥猫云 FatCatCloud" >
+<img src="https://raw.githubusercontent.com/jichangbaike/fatcatcloud/refs/heads/main/images/fatcatcloud.png" height="900" alt="肥猫云 FatCatCloud" >
 
 肥猫云（FatCatCloud）是一家专注稳定连接体验的网络服务商，成立时间已超过三年，运营相对成熟。  
 本仓库用于整理肥猫云的官网注册入口说明、基础使用介绍、多平台配置指引以及常见问题，方便用户在合规前提下更好地完成日常办公、学习和跨境协作等需求。
 
-> 本文档不构成任何投资或使用建议，仅作为使用说明类资料，请在合法合规前提下使用相关服务。  
-> 最后更新：2026-02-12（如套餐或线路有调整，以官方页面为准）
+> 📌  本文档不构成使用建议，仅作为使用说明类资料，请在合法合规前提下使用相关服务。  
+> 
+> 📮  如遇登录问题、套餐咨询、节点异常、退款或其他售后问题，请前往对应平台官网或官方渠道咨询。
+> 
+> 📒 最后更新：2026-03-11（如套餐或线路有调整，以官方页面为准）
 
 ---
 
@@ -91,14 +94,17 @@
 **活动内容**
 - 2026年春节快乐专属，合家欢乐！
   
+
 **优惠券码**
 
 - 月付、季度、半年付 使用优惠码：newyear202685 , 可以享受85折优惠。
 - 年付、2年付、3年付，使用优惠码： newyear202680 , 可以享受8折优惠。
   
+
 **活动时间**
 - 即日起到 2026年3月15日23：59分截止
   
+
 **使用说明**
 - 结算时输入优惠码即可享受折扣
 
@@ -155,12 +161,11 @@
 说明：截图仅供参考，解锁效果会随节点、时段与平台风控策略变化，以实际体验为准。
 <details>
 <summary>点击展开（长图）</summary>
-
-<img src="https://raw.githubusercontent.com/jichangbaike/fatcatcloud/refs/heads/main/images/fatcatcloud-5180-test.png" alt="流媒体实测截图（长图）" >
+<img src="https://raw.githubusercontent.com/jichangbaike/fatcatcloud/refs/heads/main/images/fatcatcloud-test-20260311.png" alt="流媒体实测截图（长图）" >
 
 </details>
 
-2026-01-08，电信宽带2Gbps
+2026-03-11，联通宽带2Gbps
 
 ---
 

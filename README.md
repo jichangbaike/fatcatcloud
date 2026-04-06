@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/jichangbaike/fatcatcloud/refs/heads/main/images/fatcatcloud.png" alt="肥猫云 FatCatCloud" >
 
-**肥猫云（FatCatCloud）** 是一家专注稳定连接体验的网络服务商，成立时间已超过四年，运营相对成熟。采用 Trojan 协议，BGP三线优化，IPLC专线接入，节点涵盖香港、台湾、日本、新加坡和美国等地区。
+**肥猫云（FatCatCloud）** 是一家专注稳定连接体验的网络服务商，成立时间已超过四年，运营相对成熟。采用 **VLESS**协议，BGP三线优化，IPLC专线接入，节点涵盖香港、台湾、日本、新加坡和美国等地区。
 
 肥猫云晚高峰体验好，解锁Netflix、Disney+、HBO Max等流媒体，支持 ChatGPT、Claude 等 AI 工具，不限制设备数量。
 
